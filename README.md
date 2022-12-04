@@ -2,6 +2,8 @@
 
 Here is a quick list of study guide material that I used in order to pass the exam:
 
+If you want to read my blog regarding tips on how to pass the AWS Certified Solutions Architect - Associate exam you can find it [here](https://anksos.wordpress.com/2021/06/29/babbling-about-aws-solutions-architect-associate-exam-saa-c02/)
+
 1. Enrolled and finished the [AWS Academy Cloud Architecting](https://aws.amazon.com/training/awsacademy/)
 2. [AWS Documentation](https://docs.aws.amazon.com/)
 3. [AWS Certified Solutions Architect Associate Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
